@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Safa Bal safabal@gmail.com
 
 # THANKS
 
