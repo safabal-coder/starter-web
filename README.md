@@ -7,9 +7,12 @@ Just for learning purpose...
 ## Introduction
 Example intro...
 
-##Purpose
+## Purpose
 Example purpose
-##Deployment
+## Deployment
 
 Example Deployment
-##Contribute
+## Contribute
+
+### COPYRIGHT
+Copyrighted product
