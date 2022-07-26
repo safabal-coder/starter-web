@@ -17,3 +17,5 @@ Please fork and share!!!
 
 ### COPYRIGHT
 Copyrighted product
+
+## REBASE EXAMPLE
